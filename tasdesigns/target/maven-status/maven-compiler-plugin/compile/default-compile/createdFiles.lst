@@ -1,0 +1,12 @@
+com\niit\model\Product.class
+com\niit\model\Category.class
+com\niit\service\CategoryService.class
+com\niit\dao\ProductDao.class
+com\niit\service\ProductServiceImpl.class
+com\niit\controller\HomeController.class
+com\niit\dao\ProductDaoImpl.class
+com\niit\controller\ProductController.class
+com\niit\dao\CategoryDao.class
+com\niit\dao\CategoryDaoImpl.class
+com\niit\service\CategoryServiceImpl.class
+com\niit\service\ProductService.class
